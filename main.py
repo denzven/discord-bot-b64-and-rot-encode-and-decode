@@ -97,4 +97,4 @@ bot.run(os.getenv("BOTTOKEN"))#using this method so that noone can see my precio
 
 
 
-#cmon.. i had to get it to hundered.. so yea.. #100linecode yaay!
+#cmon.. i had to get it to hundered.. so yea.. #100linecode yaay!!
